@@ -1,16 +1,10 @@
 # electric_bike_app
 
-A new Flutter project.
+On day 29 of the “30 Days 30 Apps” challenge, we will build the Electric Motorcycle App UI , a modern user interface to support electric motorcycle features and controls. The app is designed to display motorcycle information such as battery status, speed, location, and other settings, with a focus on futuristic design.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/2f52f675-8038-4337-ba62-9af8d546e2ed
+)
